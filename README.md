@@ -1,0 +1,2 @@
+# pyrecipe
+Python template script
